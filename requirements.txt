@@ -1,0 +1,5 @@
+python==3.10.9
+faiss-cpu
+langchain
+google-generativeai
+PyPDF2>=2.0
