@@ -1,4 +1,3 @@
-python
 faiss-cpu
 langchain
 google-generativeai
