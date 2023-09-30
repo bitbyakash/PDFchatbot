@@ -1,4 +1,4 @@
 faiss-cpu
 langchain
-google-generativeai
+git+/https://github.com/bitbyakash/PDFchatbot/google-generativeai
 PyPDF2>=2.0
